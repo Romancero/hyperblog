@@ -9,5 +9,7 @@ Visita mi repositorio [Romancero - Hyperblog](https://github.com/Romancero/hyper
 * El flujo de trabajo de GitHub.
 * Las buenas prácticas.
 * Creado por mí, Román.
+* Windows, Linux y Mac.
+* Disponible para todos.
 
 Como recordatorio: **Este readme.md es de práctica**.
