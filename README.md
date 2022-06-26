@@ -8,5 +8,6 @@ Visita mi repositorio [Romancero - Hyperblog](https://github.com/Romancero/hyper
 * Todos los comandos de Git.
 * El flujo de trabajo de GitHub.
 * Las buenas prácticas.
+* Creado por mí, Román.
 
 Como recordatorio: **Este readme.md es de práctica**.
